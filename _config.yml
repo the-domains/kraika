@@ -1,6 +1,6 @@
 name: Kraika
 favicon: null
-layout_spectrum: 0.7080386062152684
+layout_spectrum: 0.93823
 typography_spectrum: 0.16897933627478778
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#733466'
+    - '#29bec4'
+    - '#e81771'
+    - '#5a6185'
+    - '#009999'
   brandStrength: 0.8927738163620234
   lightness: 0.47307184850797057
   saturation: 0.6248274229001254
